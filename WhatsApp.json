@@ -1,0 +1,390 @@
+{
+    "seentick": {
+        "type": "String",
+        "value": "2"
+    },
+    "imagequality": {
+        "type": "Boolean",
+        "value": false
+    },
+    "broadcast_tag": {
+        "type": "Boolean",
+        "value": true
+    },
+    "bypass_version_check": {
+        "type": "Boolean",
+        "value": false
+    },
+    "folder_theme": {
+        "type": "String",
+        "value": "Material You"
+    },
+    "transcription_provider": {
+        "type": "String",
+        "value": "assemblyai"
+    },
+    "pinnedlimit": {
+        "type": "Boolean",
+        "value": true
+    },
+    "facebookstyle": {
+        "type": "String",
+        "value": "2"
+    },
+    "hidestatusview": {
+        "type": "Boolean",
+        "value": true
+    },
+    "outlinedicons": {
+        "type": "Boolean",
+        "value": true
+    },
+    "ghostmode": {
+        "type": "Boolean",
+        "value": false
+    },
+    "wallpaper_alpha_toolbar": {
+        "type": "Integer",
+        "value": 75
+    },
+    "verify_blocked_contact": {
+        "type": "Boolean",
+        "value": true
+    },
+    "metaai": {
+        "type": "Boolean",
+        "value": false
+    },
+    "changecolor": {
+        "type": "Boolean",
+        "value": false
+    },
+    "google_translate": {
+        "type": "Boolean",
+        "value": true
+    },
+    "chatfilter": {
+        "type": "String",
+        "value": "1"
+    },
+    "hideread_group": {
+        "type": "Boolean",
+        "value": true
+    },
+    "custom_privacy_type": {
+        "type": "String",
+        "value": "2"
+    },
+    "toast_viewed_message": {
+        "type": "Boolean",
+        "value": true
+    },
+    "video_real_resolution": {
+        "type": "Boolean",
+        "value": false
+    },
+    "menuwicon": {
+        "type": "Boolean",
+        "value": true
+    },
+    "antirevokestatus": {
+        "type": "String",
+        "value": "2"
+    },
+    "show_dndmode": {
+        "type": "Boolean",
+        "value": false
+    },
+    "video_maxfps": {
+        "type": "Boolean",
+        "value": true
+    },
+    "call_info": {
+        "type": "Boolean",
+        "value": true
+    },
+    "enablelogs": {
+        "type": "Boolean",
+        "value": false
+    },
+    "hideonceseen": {
+        "type": "Boolean",
+        "value": true
+    },
+    "doubletap2like": {
+        "type": "Boolean",
+        "value": true
+    },
+    "audio_type": {
+        "type": "String",
+        "value": "0"
+    },
+    "igstatus": {
+        "type": "Boolean",
+        "value": false
+    },
+    "calltype": {
+        "type": "Boolean",
+        "value": true
+    },
+    "lockedchats_enhancer": {
+        "type": "Boolean",
+        "value": true
+    },
+    "filtergroups": {
+        "type": "Boolean",
+        "value": false
+    },
+    "status_style": {
+        "type": "String",
+        "value": "0"
+    },
+    "buttonaction": {
+        "type": "Boolean",
+        "value": false
+    },
+    "antirevoke": {
+        "type": "String",
+        "value": "2"
+    },
+    "update_check": {
+        "type": "Boolean",
+        "value": true
+    },
+    "force_english": {
+        "type": "Boolean",
+        "value": true
+    },
+    "antieditmessages": {
+        "type": "Boolean",
+        "value": true
+    },
+    "blueonreply": {
+        "type": "Boolean",
+        "value": true
+    },
+    "floatingmenu": {
+        "type": "Boolean",
+        "value": true
+    },
+    "disable_ads": {
+        "type": "Boolean",
+        "value": true
+    },
+    "downloadstatus": {
+        "type": "Boolean",
+        "value": true
+    },
+    "stamp_copied_message": {
+        "type": "Boolean",
+        "value": true
+    },
+    "wallpaper_alpha_navigation": {
+        "type": "Integer",
+        "value": 15
+    },
+    "dotonline": {
+        "type": "Boolean",
+        "value": true
+    },
+    "hideread": {
+        "type": "Boolean",
+        "value": true
+    },
+    "custom_css": {
+        "type": "String",
+        "value": "\/*\nwallpaper = false\nwallpaper_file = \"wall.png\"\nwallpaper_alpha = 60\nwallpaper_alpha_navigation = 75\nwallpaper_alpha_toolbar = 60\n\nchange_colors = true\nprimary_color = color_system_accent1_300\nsecondary_color = color_system_neutral1_900\nbackground_color = color_system_neutral2_900\n\nbubble_colors = true\nbubble_right = color_system_accent2_600\nbubble_left = color_system_accent1_600\n\n*\/\n​"
+    },
+    "tasker": {
+        "type": "Boolean",
+        "value": true
+    },
+    "call_white_contacts": {
+        "type": "String",
+        "value": "[919855431124@s.whatsapp.net, 919914331774@s.whatsapp.net]"
+    },
+    "showonline": {
+        "type": "Boolean",
+        "value": true
+    },
+    "filterseen": {
+        "type": "Boolean",
+        "value": true
+    },
+    "copystatus": {
+        "type": "Boolean",
+        "value": true
+    },
+    "doubletap2like_emoji": {
+        "type": "String",
+        "value": "👍"
+    },
+    "toast_viewed_status": {
+        "type": "Boolean",
+        "value": false
+    },
+    "statuscomposer": {
+        "type": "Boolean",
+        "value": true
+    },
+    "open_wae": {
+        "type": "Boolean",
+        "value": false
+    },
+    "strokebuttons": {
+        "type": "Boolean",
+        "value": true
+    },
+    "custom_filters": {
+        "type": "Boolean",
+        "value": false
+    },
+    "removeforwardlimit": {
+        "type": "Boolean",
+        "value": true
+    },
+    "call_privacy": {
+        "type": "String",
+        "value": "4"
+    },
+    "disable_defemojis": {
+        "type": "Boolean",
+        "value": false
+    },
+    "admin_grp": {
+        "type": "Boolean",
+        "value": false
+    },
+    "video_size_limit": {
+        "type": "Boolean",
+        "value": true
+    },
+    "hidereceipt": {
+        "type": "Boolean",
+        "value": false
+    },
+    "downloadviewonce": {
+        "type": "Boolean",
+        "value": true
+    },
+    "oldstatus": {
+        "type": "Boolean",
+        "value": false
+    },
+    "bootloader_spoofer": {
+        "type": "Boolean",
+        "value": true
+    },
+    "removeseemore": {
+        "type": "Boolean",
+        "value": true
+    },
+    "media_preview": {
+        "type": "Boolean",
+        "value": true
+    },
+    "novotema": {
+        "type": "Boolean",
+        "value": true
+    },
+    "change_dpi": {
+        "type": "String",
+        "value": "0"
+    },
+    "toastdeleted": {
+        "type": "Boolean",
+        "value": true
+    },
+    "lite_mode": {
+        "type": "Boolean",
+        "value": true
+    },
+    "animation_emojis": {
+        "type": "Boolean",
+        "value": true
+    },
+    "animation_list": {
+        "type": "String",
+        "value": "default"
+    },
+    "separategroups": {
+        "type": "Boolean",
+        "value": true
+    },
+    "antidisappearing": {
+        "type": "Boolean",
+        "value": true
+    },
+    "showbiohome": {
+        "type": "Boolean",
+        "value": true
+    },
+    "typearchive": {
+        "type": "String",
+        "value": "0"
+    },
+    "removechannel_rec": {
+        "type": "Boolean",
+        "value": true
+    },
+    "autonext_status": {
+        "type": "Boolean",
+        "value": true
+    },
+    "restartbutton": {
+        "type": "Boolean",
+        "value": false
+    },
+    "call_type": {
+        "type": "String",
+        "value": "no_internet"
+    },
+    "hideaudioseen": {
+        "type": "Boolean",
+        "value": true
+    },
+    "showonlinetext": {
+        "type": "Boolean",
+        "value": true
+    },
+    "wallpaper": {
+        "type": "Boolean",
+        "value": false
+    },
+    "disable_expiration": {
+        "type": "Boolean",
+        "value": false
+    },
+    "novaconfig": {
+        "type": "Boolean",
+        "value": false
+    },
+    "viewonce": {
+        "type": "Boolean",
+        "value": true
+    },
+    "videoquality": {
+        "type": "Boolean",
+        "value": true
+    },
+    "wallpaper_alpha": {
+        "type": "Integer",
+        "value": 60
+    },
+    "revokeallmessages": {
+        "type": "Boolean",
+        "value": true
+    },
+    "newchat": {
+        "type": "Boolean",
+        "value": false
+    },
+    "alertsticker": {
+        "type": "Boolean",
+        "value": true
+    },
+    "show_freezeLastSeen": {
+        "type": "Boolean",
+        "value": false
+    }
+}
