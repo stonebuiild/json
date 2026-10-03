@@ -1,6 +1,9 @@
-[
-  {
-    "name": "snu",
-    "url": "https://onrender.com"
-  }
-]
+{
+  "servers": [
+    {
+      "name": "snu",
+      "url": "https://onrender.com",
+      "address": "https://onrender.com"
+    }
+  ]
+}
