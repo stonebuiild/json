@@ -1,4 +1,8 @@
 {
-    "name": "[snu]", 
-    "address": "[https://anisette-v3-server-90nm.onrender.com]"
+    "servers": [
+        {
+            "name": "[snu]",
+            "address": "[https://anisette-v3-server-90nm.onrender.com]"
+        }
+    ]
 }
