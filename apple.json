@@ -2,8 +2,8 @@
   "servers": [
     {
       "name": "snu",
-      "url": "https://onrender.com",
-      "address": "https://onrender.com"
+      "url": "https://anisette-v3-server-90nm.onrender.com",
+      "address": "https://anisette-v3-server-90nm.onrender.com"
     }
   ]
 }
